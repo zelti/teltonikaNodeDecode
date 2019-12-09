@@ -1,0 +1,15 @@
+{
+  "name": "nodegpstcp",
+  "version": "1.0.0",
+  "description": "Conector tcp para gps teltonika",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yostin Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2",
+    "redis": "^2.8.0"
+  }
+}
